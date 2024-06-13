@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="choose_category">Select a category</string>
+    <string-array name="complaint_categories">
+        <item>Select a category</item>
+        <item>Noise Pollution</item>
+        <item>Garbage Collection</item>
+        <item>Road Maintenance</item>
+        <item>Water Supply</item>
+        <item>Electricity Disruptions</item>
+        <item>Public Transport Issues</item>
+        <item>Street Lighting</item>
+        <item>Illegal Parking</item>
+        <item>Air Pollution</item>
+        <item>Drainage Problems</item>
+    </string-array>
+
+</resources>

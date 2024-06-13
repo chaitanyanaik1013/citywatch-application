@@ -1,0 +1,6 @@
+<!-- res/drawable/custom_button_image.xml -->
+<bitmap xmlns:android="http://schemas.android.com/apk/res/android"
+    android:src="@drawable/profile_pic"
+    android:gravity="center"
+    android:width="10dp"
+    android:height="10dp"/>

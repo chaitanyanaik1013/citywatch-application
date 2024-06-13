@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1093948518483",
+    "project_id": "login-citywatch",
+    "storage_bucket": "login-citywatch.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1093948518483:android:5cc3b678b521ac0da316a6",
+        "android_client_info": {
+          "package_name": "com.example.citywatchapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgioAtS8Jl5l0EAvsCuvB4R93WQyOwTPg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
